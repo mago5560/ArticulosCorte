@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mnu_agregar"
+            android:title="Agregar Nuevo"
+            android:icon="@drawable/add_icon"/>
+
+        <item android:title="Maestro">
+            <menu>
+
+                <item
+                    android:id="@+id/mnu_personal"
+                    android:title="Personal"
+                    android:icon="@drawable/menu_right"/>
+
+                <item
+                    android:id="@+id/mnu_personal_demo"
+                    android:title="PersonalDemo"
+                    android:icon="@drawable/menu_right"/>
+                <item
+                    android:id="@+id/mnu_articulo"
+                    android:title="Articulos"
+                    android:icon="@drawable/menu_right"/>
+
+            </menu>
+        </item>
+
+        <item
+            android:id="@+id/mnu_salir"
+            android:title="Cerrar Sesion"
+            android:icon="@drawable/logout_icon"/>
+
+    </group>
+
+</menu>

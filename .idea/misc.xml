@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/add_icon.xml" value="0.2111111111111111" />
+        <entry key="app/src/main/res/drawable/back_icon.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/calendar_icon.xml" value="0.23487179487179488" />
+        <entry key="app/src/main/res/drawable/close_icon.xml" value="0.23487179487179488" />
+        <entry key="app/src/main/res/drawable/down_icon.xml" value="0.23487179487179488" />
+        <entry key="app/src/main/res/drawable/logout_icon.xml" value="0.23487179487179488" />
+        <entry key="app/src/main/res/drawable/menu_icon.xml" value="0.2111111111111111" />
+        <entry key="app/src/main/res/drawable/menu_right.xml" value="0.23487179487179488" />
+        <entry key="app/src/main/res/drawable/search_icon.xml" value="0.23487179487179488" />
+        <entry key="app/src/main/res/layout/content_maestro.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/content_principal.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/item_content_principal.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/item_entrega_articulo.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_maestro.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_nav_bar_back.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/item_nav_bar_filter.xml" value="0.10815602836879433" />
+        <entry key="app/src/main/res/layout/item_nav_bar_menu.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/item_navigation_header.xml" value="0.10815602836879433" />
+        <entry key="app/src/main/res/layout/item_recycler_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_recycler_view_footer.xml" value="0.10815602836879433" />
+        <entry key="app/src/main/res/layout/macty_entrega_articulo.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/macty_login.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/macty_principal.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_opciones.xml" value="0.13518518518518519" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
